@@ -1,2 +1,3 @@
 name: Surbhi Sharma, Horrible person
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
