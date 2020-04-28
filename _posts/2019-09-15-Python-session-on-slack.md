@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python Session on Slack"
-date: 2019-9-13
+date: 2019-9-15
 ---
 
 The first session of our training to open source contribution was scheduled on 15 September 2019 at 12:30 pm on slack.
