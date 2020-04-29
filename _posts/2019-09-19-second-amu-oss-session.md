@@ -19,13 +19,13 @@ I'm also looking forward to contribute to open source soon after learning to do 
 
 After that he also suggested a path for juniors, that they can follow :-
 
-1. In first year, learn and explore as much as you can. **Develop the skills.** 
+1.In first year, learn and explore as much as you can. **Develop the skills.** 
 
-2. In second year **compete**. Take part in hackathons and other competitions, do research work and build as many projects as you can. 
+2.In second year **compete**. Take part in hackathons and other competitions, do research work and build as many projects as you can. 
 
-3. In third year, apply for technical or research  internships. This is the most important year to polish your CV by doing internships. 
+3.In third year, apply for technical or research  internships. This is the most important year to polish your CV by doing internships. 
 
-4. In fourth year just prepare for placements or masters, whatever you planning to do after graduation. 
+4.In fourth year just prepare for placements or masters, whatever you planning to do after graduation. 
 
 Currently, I'm learning, and trying to build some projects, also working on a research paper. Hoping to complete them soon. 
 One more thing I'd like to mention, that he told was that- you can just learn from everyone, your seniors, juniors, teachers and your friends too. You just need to surround yourself with those people and start asking questions . Learn things other than that are in your course syllabus, and always have a high self-esteem. 
@@ -33,7 +33,8 @@ One more thing I'd like to mention, that he told was that- you can just learn fr
 At last he just asked everyone to "JUST START" take the first step, it's the hardest but take it anyway, because you don't have any excuse to not to do that, and at last Husain bhai said **"Action is always better than inaction"**. 
 
 Here are few resources, he suggested, that he also used for his interview preparation:
-- Naraimha Karunmanchi 's Data Structures and Algorithms. 
+
+-Naraimha Karunmanchi 's Data Structures and Algorithms. 
 
 If you want to watch the whole session, you can watch it on YouTube, here is the [link](https://youtu.be/qwdn3ToFG1Q)
 
