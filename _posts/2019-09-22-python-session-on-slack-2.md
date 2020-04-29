@@ -3,7 +3,6 @@ layout: post
 title: "Python Session on Slack - 2"
 date: 2019-9-22
 ---
-
 We had our second python session today at 2:00 pm.
 Before starting the session @RJ722 first talked about - how the art of asking question is an important aspect of learning anything . 
 [Here]( https://fs.blog/2012/01/richard-feynman-on-why-questions/  ) is something which you must read for that.  

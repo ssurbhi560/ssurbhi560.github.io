@@ -3,7 +3,6 @@ layout: post
 title: "Python Session on Slack"
 date: 2019-9-15
 ---
-
 The first session of our training to open source contribution was scheduled on 15 September 2019 at 12:30 pm on slack.
 
 After joining for the session on slack, everyone was instructed to login and open jupyter notebook. It's a web based interactive environment for running python ( the link for which was sent already before the session).

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "note to self!"
-date: 2019-1-16
+title: "Week progress-1!"
+date: 2020-1-16
 ---
-
 This is second blog post after I decided to make a few changes in my routine. It is basically going to be about what I did this week.
 
 So my mentor shared one of his blogs with me, which gave me some more clarity about what exactly i should get started with. So here is what I did :

@@ -3,7 +3,6 @@ layout: post
 title: "First AMU-OSS Session."
 date: 2019-9-13
 ---
-
 The first session of AMU-OSS after orientation was held on 11 September 2019, Wednesday.
 In the session Rahul sir shared his experience and journey to GSoC (Google summer of code) 2017. He told everyone the practices that he followed, which helped him alot and some of those are:
 1.Using Linux over Windows. 

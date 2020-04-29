@@ -3,7 +3,6 @@ layout: post
 title: "Journey to Microsoft by Husain Zaidi"
 date: 2019-9-19
 ---
-
 Today we had a session taken by Husain bhai who just completed his 2 months internship at Microsoft, Hyderabad as Software Engineer and also got a full-time offer to join Microsoft after.
 
 So, even before the session started, the room was already full, no seats were left, so you can imagine what crowd must be there.
