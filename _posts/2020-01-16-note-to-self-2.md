@@ -8,14 +8,20 @@ This is second blog post after I decided to make a few changes in my routine. It
 So my mentor shared one of his blogs with me, which gave me some more clarity about what exactly i should get started with. So here is what I did :
 
 1- I started following [Surveillance Self-Defense](https://ssd.eff.org/).
+
 2- Started using Tor Browser in my laptop as well in phone. It takes a little time to connect so I need to be a little more patient to get used it.
+
 3- Finally learning touch-typing using [gtypist](https://www.gnu.org/software/gtypist/) and seriously it is so much fun to practice that.
+
 4- Learning Django framework and started working on a project with my friends.
-5- Around a month ago I started using Linux (Ubuntu) and now finally I am all comfortable with it in fact I realized it is much easier to use .
-6- Also I was trying to get familiar with pip's code base so I cloned it and have been trying to understand it better .
+
+5- Around a month ago I started using Linux (Ubuntu) and now finally I am all comfortable with it in fact I realized it is much easier to use.
+
+6- Also I was trying to get familiar with pip's code base so I cloned it and have been trying to understand it better.
+
 7- And lastly I have been following a online course to learn Data Structures and Algorithms and trying to improve my problem solving skills.
 
-Apart from these, these are a few more things i did:
+Apart from these, these are a few more things I did:
 
 -Finished reading **Deep Work** by *Cal Newport* and **The 5am Club** by *Robin Sharma*. Also got a few more books to read for next couple of months.
 -Made some good changes in my sleeping schedule and also stopped using social media .
