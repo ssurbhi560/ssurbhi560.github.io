@@ -43,9 +43,10 @@ Here the memory allocated for the variable does not know about the type of the v
 Consider the following example:
 
 ```
-/* Python Code */
-num = 10 //directly using the variable
-num = "ten" //No error caused
+#Python Code
+num = 10  #directly using the variable
+num = "ten"  #No error caused
+
 ```
 
 Common examples of dynamically typed language includes Python, Ruby, Dart, Lisp, R and PHP
