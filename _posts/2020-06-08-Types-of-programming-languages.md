@@ -22,17 +22,19 @@ When we declare a variable in these languages, an area of memory is set aside fo
 
 Consider the following example:
 
-```/* C code */
+```
+/* C code */
 static int num, sum; //explicit declaration
 num = 5; //now use the variables
 sum = 10;
-sum = sum + num;```
+sum = sum + num;
+```
 
 Common examples of statically-typed languages include Java, FORTRAN, C/C++, C#, Haskell, Scala, Rust, Go and Perl.
 
 **What is a Dynamically typed language?**
 
-In dynamically typed languages there is no declaration of variable, and just have and assignment statement.Variables are bound to objects at run time by means of assignment statements, and unlike statically typed languages, it is possible to bind the samw variables to objects of different types during execution of the program Here *dynamic type checking* occurs during run-time. 
+In dynamically typed languages there is no declaration of variable, and just have an assignment statement.Variables are bound to objects at run time by means of assignment statements, and unlike statically typed languages, it is possible to bind the same variable to objects of different types during execution of the program. Here *dynamic type checking* occurs when code is run. 
 
 **How memory is used dyanamically typed languages?**
 
@@ -40,9 +42,11 @@ Here the memory allocated for the variable does not know about the type of the v
 
 Consider the following example:
 
-```/* Python Code */
+```
+/* Python Code */
 num = 10 //directly using the variable
-num = "ten" //No error caused```
+num = "ten" //No error caused
+```
 
 Common examples of dynamically typed language includes Python, Ruby, Dart, Lisp, R and PHP
 
