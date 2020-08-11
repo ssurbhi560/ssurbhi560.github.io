@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to setup ZNC bouncer!"
-date: 2020-9-10
+date: 2020-8-10
 ---
 After struggling for so many days today finally I could set up the ZNC bouncer. This blog post is about what steps I followed, silly mistakes I did, and also then how I solved all those. 
 
