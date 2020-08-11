@@ -24,8 +24,9 @@ So my mentor shared one of his blogs with me, which gave me some more clarity ab
 Apart from these, these are a few more things I did:
 
 -Finished reading **Deep Work** by *Cal Newport* and **The 5am Club** by *Robin Sharma*. Also got a few more books to read for next couple of months.
+
 -Made some good changes in my sleeping schedule and also stopped using social media .
--Read this [blog](
-https://www.scotthyoung.com/blog/2018/12/13/productivity-guilt/) which i found helpful with what I was feeling last week , so sharing it here.
+
+-Read this [blog](https://www.scotthyoung.com/blog/2018/12/13/productivity-guilt/) which i found helpful with what I was feeling last week, so sharing it here.
 
 That is pretty much all what I did this week, it is not something a lot to share but still something is better than nothing. Things will take time to complete, but I hope to stick to what I have planned and be better with time! :)

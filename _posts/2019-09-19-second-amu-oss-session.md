@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Journey to Microsoft by Husain Zaidi"
+title: "Second AMU-OSS session!"
 date: 2019-9-19
 ---
 Today we had a session taken by Husain bhai who just completed his 2 months internship at Microsoft, Hyderabad as Software Engineer and also got a full-time offer to join Microsoft after.
