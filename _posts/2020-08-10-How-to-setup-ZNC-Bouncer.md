@@ -24,31 +24,31 @@ For setting up the server:
 
 4. Now that you have your credits, you can go on and create a droplet. For authentication you can either go for a Password or can use SSH key.
 
-For creating SSH key go on to your terminal and use the following command:
+    For creating SSH key go on to your terminal and use the following command:
 
-``ssh-keygen``     
--This would generate a new SSH key.
+    ``ssh-keygen``     
+    -This would generate a new SSH key.
 
-``cat ~/.ssh/id_rsa.pub``     
--This would give you your public key which you can add there.
+    ``cat ~/.ssh/id_rsa.pub``     
+    -This would give you your public key which you can add there.
 
-And after all this hit the create option and your server will be up and running.
+    And after all this hit the create option and your server will be up and running.
 
 
 
-5. After this open your terminal and access the server you have set up. For this run the following command in the terminal:
+5. Now you can open your terminal and access the server you have set up. For this run the following command in the terminal:
 
-``ssh root@<droplet_ip>`` 
-(if you used ssh) and hit enter.
+    ``ssh root@<droplet_ip>`` 
+    (if you used ssh) and hit enter.
 
-``root@<droplet_ip>`` 
-(if you used a password) enter the password and hit enter.
+    ``root@<droplet_ip>`` 
+    (if you used a password) enter the password and hit enter.
 
-Now you have the access to the server.
+    Now you have the access to the server.
 
 6. Now we will go on to install and configure the ZNC bouncer. I followed this [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-znc-an-irc-bouncer-on-an-ubuntu-vps). It is pretty easy to follow and clearly explains all the steps. There are a few comments at the end of the post which are also good and you might want to read.
 
-After doing all that is mentioned in the blog above you'd be able to access the web interface for the ZNC, and from there you can then login with the credentials you provided while configuring and can add/delete users, networks or change various settings. 
+    After doing all that is mentioned in the blog above you'd be able to access the web interface for the ZNC, and from there you can then login with the credentials you provided while configuring and can add/delete users, networks or change various settings. 
 
 7. You can now add this in whatever client program you are using. If you are using Hexchat then add a new network and edit it. Add in the network add this **<droplet_id>/port** and all the other settings too. In case you are using IRC for the first time, you should register your nick on IRC. Refer this [blog](https://freenode.net/kb/answer/registration) for that. 
 
