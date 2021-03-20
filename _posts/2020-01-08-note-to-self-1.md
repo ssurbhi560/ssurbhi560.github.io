@@ -20,7 +20,7 @@ This I had for very long now, although I think for a few last months I stopped d
 
 **POOR TIME MANAGEMENT**
  
-All the the time complaining about not having enough time. But in reality I have more than enough time to do everything. If I would have planned my vacations properly and actually implemented that plan properly (saying this because I do invest a lot of my time and energy in making a routine but none in following it) I could have done a lot till now.    
+All the the time complaining about not having enough time. But in reality I have more than enough time to do everything. If I would have planned my vacations properly and actually implemented that plan properly (saying this because I do invest a lot of my time and energy in making a routine but none in following it) I could have done a lot by now.    
 
 **SOCIAL MEDIA AND OTHER DISTRACTIONS**
 
