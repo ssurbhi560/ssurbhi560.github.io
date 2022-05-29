@@ -10,8 +10,3 @@ I am also trying to contribute and become more familiar with open source softwar
 ## Experience
 
 ## Open Source
-
-### Some more stuff about me:
-
-I love reading, so if you've got suggestions for some good books or any other exciting stuff to read, please share with me on [twitter](https://twitter.com/ssurbhi560), or you can send an [email](mailto:ssurbhi560@gmail.com). I will be happy to give it a try! 
-Other than this, I believe and try my best to practice healthy eating, but I am a little crazy when it comes to cakes and pastries.
