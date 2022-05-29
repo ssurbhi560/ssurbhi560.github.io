@@ -13,8 +13,12 @@ Setup:
 
 BASE_URL = 'http://localhost:1313'
 options = Options()
-if os.path.exists('/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox'):
-    options.binary_location = '/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox'
+if os.path.exists(
+    '/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox'
+):
+    options.binary_location = (
+        '/Applications/Firefox Developer Edition.app/Contents/MacOS/firefox'
+    )
 options.add_argument('--headless')
 DRIVER = webdriver.Firefox(options=options)
 # To offset screen size based on window size
@@ -23,19 +27,24 @@ DRIVER.set_window_size(1500, 1085)
 SCREENSHOT_OPTIONS = [
     {'path': '/', 'filename': 'images/screenshot-{color_pref}-home.png'},
     {'path': '/posts/', 'filename': 'images/screenshot-{color_pref}-list.png'},
-    {'path': '/posts/theme-documentation-basics/', 'filename': 'images/screenshot-{color_pref}-post.png'},
+    {
+        'path': '/posts/theme-documentation-basics/',
+        'filename': 'images/screenshot-{color_pref}-post.png',
+    },
 ]
 
 DARK_THEME = (34, 39, 45, 255)
 LIGHT_THEME = (255, 255, 255, 255)
 
+
 def get_dominant_color(img_path):
     pil_img = Image.open(img_path)
     img = pil_img.copy()
-    img.convert("RGB")
+    img.convert('RGB')
     img.resize((1, 1), resample=0)
     dominant_color = img.getpixel((0, 0))
     return dominant_color
+
 
 def take_screenshots(driver, screenshot_options):
     for opt in screenshot_options:
@@ -63,6 +72,7 @@ def take_screenshots(driver, screenshot_options):
 
         print(f'Saved {opt["path"]}')
 
+
 def merge_home_images():
     light_home = Image.open('images/screenshot-light-home.png')
     dark_home = Image.open('images/screenshot-dark-home.png')
@@ -71,8 +81,8 @@ def merge_home_images():
 
     width, height = light_home.size
 
-    light_home_half = light_home.crop((0, 0, int(width/2), height))
-    dark_home_half = dark_home.crop((int(width/2), 0, width, height))
+    light_home_half = light_home.crop((0, 0, int(width / 2), height))
+    dark_home_half = dark_home.crop((int(width / 2), 0, width, height))
 
     merged_img = Image.new('RGB', (width, height))
     # Since we are merging horizontally, we will keep the offset of x-axis
@@ -84,6 +94,7 @@ def merge_home_images():
     merged_img.save('images/screenshot.png')
     merged_img.save('images/tn.png')
     print('Created merged image for hugo showcase')
+
 
 take_screenshots(DRIVER, SCREENSHOT_OPTIONS)
 merge_home_images()
