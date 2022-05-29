@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   accentColor = "#8ab9f1"
   footer = "Surbhi Sharma"
-  description = ""
+  description = "This is the place where I write occasionally."
 
   customHeadHTML = """
     <!-- KaTeX -->
