@@ -7,6 +7,4 @@ I am an aspiring software engineer and recently completed Bachelors of Science (
 
 I am also trying to contribute and become more familiar with open source software and communities behind some awesome projects. I plan to contribute more to open source and learn more about frontend development and web security in the future. Besides this, I am looking for internships and job opportunities. I am interested in web development and can pick up skills quickly; and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.
 
-## Experience
-
-## Open Source
+<!-- Add ##Experience and ##Open-Source later. -->
