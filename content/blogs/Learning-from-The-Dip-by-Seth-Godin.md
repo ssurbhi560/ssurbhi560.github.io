@@ -3,23 +3,23 @@ title: "Learnings from The Dip by Seth Godin"
 date: 2019-10-03
 type: "post"
 ---
-When should you *QUIT* something!!  
+When should you *QUIT* something?
 
 So, I recently read 'The Dip' by Seth Godin, and this blog is about what I learned from the book.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSm_vyI3pMiBqRnRgDNuV9lNlKJjKNUAu-O5smybljHs07Cgx9x)
 
-It's not a long book, and if you are an avid reader, it would hardly take a few hours. It focuses on *QUITTING!!* A negative word right! 
+It's not a long book, and if you are an avid reader, it would hardly take a few hours. It focuses on *QUITTING!!* A negative word, right? 
 
-No! Infact it is an essential thing that everyone should know **'when'** to do, if they want to save their precious time, resources and also wants to perform their best in whatever they do. This book will make you aware enough to decide **'when you need to quit?'** and **'when you need to stick?'**  
+No! In fact it is an essential thing that everyone should know **'when'** to do, if they want to save their precious time, resources and also wants to perform their best in whatever they do. This book will make you aware enough to decide **'when you need to quit?'** and **'when you need to stick?'**  
 
 Everyone must have heard this : 
 
-"QUITTERS NEVER WIN AND WINNERS NEVER QUIT!" right? No wrong! 
+"QUITTERS NEVER WIN AND WINNERS NEVER QUIT!" right? No, wrong! 
 
 Here is what it actually should be : 
 
-**"WINNERS ALWAYS QUIT, IT'S JUST THEY QUIT AT THE RIGHT TIME!!"**
+**"Winners always quite, it's just they quit at the right time!!"**
 
 Quitting is not something bad to do, it's just one should know when to quit.
 
