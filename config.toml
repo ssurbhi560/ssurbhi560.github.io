@@ -24,6 +24,7 @@ pygmentsStyle = "monokai"
   socialIcons = [
     {name = "gmail", url = "mailto:ssurbhi560@gmail.com"},
     {name = "github", url = "https://github.com/ssurbhi560"},
+    {name = "gitlab", url = "https://gitlab.com/ssurbhi560"},
     {name = "linkedin", url = "https://www.linkedin.com/in/ssurbhi560"},
     {name = "twitter", url = "https://twitter.com/ssurbhi560"},
   ]
