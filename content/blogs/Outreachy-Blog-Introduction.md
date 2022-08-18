@@ -6,11 +6,11 @@ type: post
 
 In this blog, I will be sharing about my application journey and my core values.
 
-Although if you have ended up here you might have read [about me](https://ssurbhi560.github.io/about/) on this website, I will still briefly introduce myself:
+Although if you have ended up here you might have read [about me](https://ssurbhi560.github.io/about/) on this website but, I will still briefly introduce myself:
 
-I am Surbhi, a recent graduate of BSc. (Honours) in Computer Applications. After college, I worked at Pravatak Technologies Labs, IIT Madras as Project Associate. I was responsible for building a web application that could serve the Jupyter Notebook application using a tool called [voila](https://voila.readthedocs.io/en/stable/). With this, users don’t have to interact with  Jupyter Notebook directly, which means they don’t have to go through the hassle of learning it.
+I am [Surbhi](https://github.com/ssurbhi560), and I recently graduated from college where I completed BSc. (Honours) in Computer Applications after that, I worked at Pravatak Technologies Labs, IIT Madras as Project Associate. I was responsible for building a web application that could serve the [voila](https://voila.readthedocs.io/en/stable/) applications to users after proper authentication.
 
-I have mostly worked with Python and very little with Java. Currently, I am trying to improve my problem-solving skills, so I end up spending most of my free time on [leetcode](https://leetcode.com/).
+I have mostly worked with Python and very little with Java. Currently, I am trying to improve my problem-solving skills, so I try to spend some of my free time on [leetcode](https://leetcode.com/).
 
 My core values are Respect, Responsibility, and Kindness.
 
