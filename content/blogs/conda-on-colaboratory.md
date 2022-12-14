@@ -4,7 +4,8 @@ date: 2022-12-05
 type: "post"
 ---
 
-![Condacolab's logo](images/posts/conda-on-colaboratory/blog_hero_surbhi.svg)
+![Condacolab's logo](https://i.imgur.com/jkDS3Y4.png)
+
 
 ## Introduction
 
@@ -34,7 +35,7 @@ To help folks with these limitations and make Colab more user-friendly for `cond
 
 ---
 
-![Screenshot that shows the Google Colab interface on the browser with three cells of code. The first cell installs condacolab with pip. A second cell runs condacolab.install() to download and install conda to /usr/local. A third cell installs OpenMM with conda.](images/posts/conda-on-colaboratory/colab-when-activating-base-env.png) 
+![Screenshot that shows the Google Colab interface on the browser with three cells of code. The first cell installs condacolab with pip. A second cell runs condacolab.install() to download and install conda to /usr/local. A third cell installs OpenMM with conda.](https://i.imgur.com/u3H8rUs.png) 
 
 ---
 
@@ -73,7 +74,7 @@ During the installation of condacolab the kernel is restarted automatically. Thi
 
 ---
 
-![using `restart_kernel` argument to get a button for kernel restart.](images/posts/conda-on-colaboratory/restart_kernel_demo.png)
+![using `restart_kernel` argument to get a button for kernel restart.](https://i.imgur.com/fxsE4jj.png)
 
 ---
 
@@ -111,3 +112,5 @@ As mentioned above, in the new solution we are using for condacolab, some extra 
 
 During my internship, I met many intelligent and cool folks at Quansight, and interacting with them helped me develop a new perspective. I am so grateful for the wonderful and invaluable experience I had during the internship. The various things I learned and discovered don't include just technical skills but also skills like better communication, collaborating, overcoming the imposter syndrome, debugging when you are stuck, and so many more. Thanks a ton to all the people who made this internship program possible. And a special thanks to Jaime for being the coolest mentor I have ever had, always helping and giving advice when I was stuck, cracking the wittiest jokes, and making our calls and work fun.
 
+
+This blog is also published [here](https://t.co/suJOPityCG)!
