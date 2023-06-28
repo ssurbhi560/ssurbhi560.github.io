@@ -10,6 +10,9 @@ Hi, I am Surbhi, a novice Software Engineer. I like contributing to open-source 
 
 - ### **Software Engineer Intern - [Quansight](https://quansight.com/)**
 
+    - Modified existing implementation and the core business logic of condacolab to correct errors, adapt it to new environments and upgrade interfaces and improved performance.
+    - Developed scripts to speed up the process of completing various tasks and added features to improve usage of condacolab. [Read full project work here](https://labs.quansight.org/blog/conda-on-colaboratory).
+
 - ### **Outreachy'22 intern with [conda-forge](https://conda-forge.org/)**
 
     Worked on documenting the conda-forge ecosystem and closed some important tickets improving documentation for maintainers and users contributing or using packages to/from conda-forge. Read [full project wrap up blog](https://conda-forge.org/blog/posts/2022-08-19-outreachy-wrap-up-blog-2022/).
