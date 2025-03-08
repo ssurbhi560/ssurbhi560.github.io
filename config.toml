@@ -41,7 +41,12 @@ pygmentsStyle = "monokai"
     weight = 2
 
   [[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 3
+
+  [[menu.main]]
     identifier = "rss"
     pre = "<span data-feather='rss'></span>"
     url = "/index.xml"
-    weight = 3
+    weight = 4
